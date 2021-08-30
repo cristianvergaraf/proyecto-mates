@@ -6,6 +6,8 @@ Cada dia saber mas, mucho mas.
 
 Estos cambios son solucciones para el cliente
 
+Primer commit.
 
+Segundo commit revisar
 
 
